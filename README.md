@@ -1,7 +1,7 @@
 #mgopastebin2
 
 This is an example of a simplified Pastebin, using Go and MongoDB.
-You can get MongoDB at (http://www.mongodb.org/)[http://www.mongodb.org/]
+You can get MongoDB at [http://www.mongodb.org/](http://www.mongodb.org/)
 
 #Dependencies
 
